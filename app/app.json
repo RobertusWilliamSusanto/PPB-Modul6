@@ -1,0 +1,7 @@
+"extra": {
+  "backendUrl": "http://192.168.18.9:5002",
+  "mqtt": {
+    "brokerUrl": "wss://broker.hivemq.com:8884/mqtt",
+    "topic": "ppb/kel26/iot/temperature"
+  }
+}
